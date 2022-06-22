@@ -33,7 +33,7 @@ switch (pax) {
 let options = prompt("Ingrese el tipo de habitación elegida por favor. \n 1. Habitación single \n 2. Habitación doble \n 3. Habitación triple \n 4. Habitación cuádruple ");
 if(options == ""){
     alert("Error. Ingrese el tipo de habitación elegida por favor.")
-
+}
     //Eleccion de cantidad de noches de alojamiento
 
 let noches = prompt("Ingrese la cantidad de noches que desea");
